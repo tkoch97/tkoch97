@@ -5,8 +5,8 @@
 - 😁 Curiosity: I'm nutricionist and grafical designer to.
 
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=tkoch97&count_private=true&show_icons=true&theme=tokyonight">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkoch97&layout=compact&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tkoch97&count_private=true&show_icons=true&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkoch97&layout=compact&theme=tokyonight">
 </div>
 
 <br/>
