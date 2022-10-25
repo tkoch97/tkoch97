@@ -11,14 +11,18 @@
 
 <br/>
 
-<p>🌱 I’m currently learning:<p>
+<p>💻 I have experience:<p>
    <img align="center" alt="tkoch-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 <br/>
 
-<p>🔭 I'm interested in learn:<p>
+<p>🌱 I’m currently learning:<p>
     <img align="center" alt="tkoch-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<br/>
+
+<p>🔭 I'm interested in learn:<p>
     <img align="center" alt="tkoch-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="tkoch-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="tkoch-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -26,10 +30,16 @@
     <img align="center" alt="tkoch-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="tkoch-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     
+<br/>
+
 ##
 
-<footer>
+<footer style="display: flex; gap: 10px;"> 
   <div>
-    <a href="https://www.linkedin.com/in/tkoch97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/tkoch97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+
+  <div>
+    <a href="https://www.instagram.com/tkoch_97/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>  
 </footer>
