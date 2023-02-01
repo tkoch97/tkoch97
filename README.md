@@ -2,7 +2,7 @@
 
 - 📚 I'm currently course: Web development.
 - 📫 How to reach me: tkoch.gim@gmail.com
-- 😁 Curiosity: I'm nutricionist and grafical designer too.
+- 😁 Curiosity: I'm nutricionist, graphic designer and  too.
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tkoch97&count_private=true&show_icons=true&theme=tokyonight">
