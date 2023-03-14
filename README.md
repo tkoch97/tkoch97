@@ -5,9 +5,9 @@
 - 😁 Curiosity: I'm nutricionist and graphic designer too.
 
 <div>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkoch97&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tkoch97&count_private=true&show_icons=true&theme=tokyonight">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkoch97&layout=compact&theme=tokyonight">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkoch97&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=tkoch97&theme=tokyonight"/>
 </div>
 
