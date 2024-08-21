@@ -2,7 +2,7 @@
 
 - 📚 I'm currently course: Web development.
 - 📫 How to reach me: tkoch.dev@gmail.com
-- 💻 You can visit my portfolio here: <a href="https://www.instagram.com/tkoch.dev/" alt="istagram" target="_blank">Go to there</a>
+- 💻 You can visit my portfolio here: <a href="https://tkochdev.vercel.app/" alt="portfolio" target="_blank">Go to there</a>
 - 😁 Curiosity: I'm also a graphic designer and video editor.
 
 <div>
