@@ -2,7 +2,8 @@
 
 - 📚 I'm currently course: Web development.
 - 📫 How to reach me: tkoch.dev@gmail.com
-- 😁 Curiosity: I'm nutricionist and graphic designer too.
+- 💻 You can visit my portfolio here: <a href="https://www.instagram.com/tkoch.dev/" alt="istagram" target="_blank">Go to there</a>
+- 😁 Curiosity: I'm also a graphic designer and video editor.
 
 <div>
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkoch97&theme=tokyonight"/>
