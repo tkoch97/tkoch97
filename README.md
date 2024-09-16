@@ -31,7 +31,7 @@
 <!--     <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> MySql -->
 <br/>
 
-<p>🔭 I'm interested in learn:<p>
+<p>🔭 I'm interested in learning:<p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" title='Bootstrap'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" title='Angular'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" title='Docker'>
