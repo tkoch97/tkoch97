@@ -28,6 +28,7 @@
 <p>🌱 I’m currently learning:<p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" title='TypeScript'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress" title='WordPress'>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title='Python'>
 <!--     <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> MySql -->
 <br/>
 
