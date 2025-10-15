@@ -23,11 +23,11 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" title='SASS'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=styledcomponents" title='Styled Components'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" title='SQLite'>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&perline=10" title='C#'>
 <br/>
 
 <p>🌱 I’m currently learning:<p>
 <!--   <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" title='TypeScript'> -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&perline=10" title='C#'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" title='Docker'>
 <!--   <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title='Python'> -->
 <!--   <img src="https://go-skill-icons.vercel.app/api/icons?i=jest" title='Jest'> -->
