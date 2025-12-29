@@ -24,15 +24,16 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=styledcomponents" title='Styled Components'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" title='SQLite'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&perline=10" title='C#'>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" title='Docker'>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" title='AWS'>
 <br/>
 
-<p>🌱 I’m currently learning:<p>
+<!-- <p>🌱 I’m currently learning:<p> -->
 <!--   <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" title='TypeScript'> -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" title='Docker'>
 <!--   <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title='Python'> -->
 <!--   <img src="https://go-skill-icons.vercel.app/api/icons?i=jest" title='Jest'> -->
 <!--     <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> MySql -->
-<br/>
+<!-- <br/> -->
 
 <p>🔭 I'm interested in learning:<p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" title='Bootstrap'>
