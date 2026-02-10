@@ -17,13 +17,19 @@
 <p>💻 I have experience:<p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html" title='HTML'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=css" title='CSS'>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" title='Bootstrap'>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&perline=10" title='C#'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" title='JavaScript'>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" title='TypeScript'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react" title='React'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" title='Node.js'>
+  <br/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" title='SASS'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=styledcomponents" title='Styled Components'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" title='SQLite'>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&perline=10" title='C#'>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" title='SQL Server'>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" title='My SQL'>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=redis" title='Redis'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" title='Docker'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" title='AWS'>
 <br/>
@@ -36,7 +42,6 @@
 <!-- <br/> -->
 
 <p>🔭 I'm interested in learning:<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" title='Bootstrap'>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" title='Angular'>    
 <br/>
 
